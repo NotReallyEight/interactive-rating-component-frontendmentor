@@ -15,8 +15,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -34,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://notreallyeight.eu.org/interactive-rating-component-frontendmentor/)
+- Solution URL: [https://interactive-rating-component-frontendmentor.vercel.app/](https://interactive-rating-component-frontendmentor.vercel.app/)
 
 ## My process
 
